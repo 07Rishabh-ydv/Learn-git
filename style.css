@@ -1,0 +1,43 @@
+.first{
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: fit-content;
+}
+.second{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+}
+.random1{
+
+    border: 1px solid black;
+    align-content: center;
+}
+#joke{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#character-count{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.joke{
+    background-color: red;
+    color: aliceblue;
+    
+}
+.clear{
+    background-color: green;
+    color: aliceblue;
+}
